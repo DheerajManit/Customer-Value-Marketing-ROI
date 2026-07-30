@@ -1,0 +1,26 @@
+CampaignID,CampaignName,CampaignType,StartDate,EndDate,Budget
+1,New Year Sale,Affiliate,2025-02-24,2025-03-16,821234
+2,Republic Day Sale,Email,2024-08-18,2024-09-12,451311
+3,Valentine Offer,Influencer,2025-06-19,2025-07-17,971281
+4,Holi Bonanza,Email,2024-10-04,2024-10-24,92141
+5,Summer Sale,Google Ads,2026-05-06,2026-05-13,710069
+6,Monsoon Deals,SMS,2025-06-19,2025-06-27,784895
+7,Independence Day Sale,Social Media,2026-04-29,2026-05-29,883008
+8,Raksha Bandhan Offer,Influencer,2025-11-05,2025-11-30,250881
+9,Ganesh Chaturthi Sale,Affiliate,2026-02-28,2026-03-28,464406
+10,Navratri Fest,Influencer,2024-11-19,2024-12-09,454220
+11,Diwali Mega Sale,Email,2025-06-22,2025-07-03,460641
+12,Black Friday,Google Ads,2025-09-16,2025-10-09,694047
+13,Cyber Monday,SMS,2026-05-29,2026-06-27,395880
+14,Christmas Sale,Affiliate,2024-07-20,2024-08-12,936321
+15,Year End Sale,Influencer,2025-03-15,2025-03-28,707884
+16,Student Discount,Email,2025-06-10,2025-06-20,967031
+17,First Purchase Offer,Affiliate,2026-06-15,2026-06-28,396553
+18,Bank Cashback,Google Ads,2024-08-07,2024-08-24,637550
+19,Buy 1 Get 1,Influencer,2024-10-31,2024-11-18,268452
+20,Flash Sale,SMS,2025-08-05,2025-08-27,710116
+21,Weekend Offer,Google Ads,2025-03-12,2025-04-03,297415
+22,Mega Electronics Sale,Google Ads,2025-12-03,2025-12-13,538366
+23,Fashion Fiesta,Influencer,2025-08-29,2025-09-05,314568
+24,Beauty Carnival,SMS,2025-09-07,2025-09-16,417771
+25,Home Essentials Sale,Email,2025-01-29,2025-02-09,646461

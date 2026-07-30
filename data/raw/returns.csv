@@ -1,0 +1,908 @@
+ReturnID,OrderID,CustomerID,ProductID,ReturnDate,ReturnReason,RefundAmount,RefundStatus
+1,38,15106,80,2024-10-16,Changed Mind,7442.56,Rejected
+2,40,17947,155,2026-04-23,Product Not as Described,16725.71,Processed
+3,49,8040,207,2024-11-30,Product Not as Described,1721.77,Processed
+4,53,7663,433,2025-11-27,Wrong Item Delivered,3646.17,Pending
+5,56,3546,392,2024-08-07,Damaged Product,326544.7,Pending
+6,75,14347,428,2025-06-29,Product Not as Described,160869.52,Pending
+7,90,663,292,2025-08-12,Wrong Item Delivered,94158.18,Rejected
+8,91,4774,496,2025-05-30,Late Delivery,5318.48,Rejected
+9,99,12890,12,2025-06-13,Quality Not Satisfactory,19033.81,Processed
+10,121,8781,460,2025-11-06,Damaged Product,2616.91,Pending
+11,130,15043,156,2026-01-05,Quality Not Satisfactory,52770.69,Processed
+12,138,18838,466,2025-08-16,Damaged Product,270.36,Processed
+13,172,11073,181,2025-06-05,Wrong Item Delivered,12570.97,Rejected
+14,181,17677,79,2024-12-23,Defective Product,385291.54,Processed
+15,186,22,454,2025-09-22,Changed Mind,170287.56,Pending
+16,209,9000,487,2024-09-14,Damaged Product,1811.94,Rejected
+17,215,6486,351,2026-04-09,Product Not as Described,3299.38,Rejected
+18,219,14418,175,2025-07-27,Quality Not Satisfactory,21981.24,Processed
+19,220,18745,336,2025-10-25,Defective Product,2724.57,Rejected
+20,226,19907,130,2025-11-15,Changed Mind,1368.55,Processed
+21,229,13772,399,2024-11-15,Quality Not Satisfactory,106951.91,Processed
+22,231,5614,462,2024-09-27,Late Delivery,2031.82,Processed
+23,232,2350,231,2025-06-08,Damaged Product,277981.52,Processed
+24,234,11711,316,2025-08-19,Quality Not Satisfactory,54187.71,Processed
+25,248,302,144,2025-08-31,Quality Not Satisfactory,3650.13,Processed
+26,251,11810,354,2025-04-15,Size Issue,891.79,Processed
+27,253,1164,226,2026-05-18,Product Not as Described,9003.42,Pending
+28,266,12384,29,2024-08-10,Size Issue,123842.82,Processed
+29,274,18981,473,2026-06-17,Defective Product,143745.88,Pending
+30,275,3553,479,2026-02-11,Product Not as Described,42155.82,Processed
+31,298,19857,93,2025-02-21,Quality Not Satisfactory,3865.48,Processed
+32,332,13674,249,2025-02-02,Changed Mind,18635.05,Rejected
+33,349,3300,139,2025-11-13,Product Not as Described,8299.01,Processed
+34,353,1386,475,2025-09-24,Late Delivery,21942.49,Processed
+35,378,7573,38,2024-10-05,Wrong Item Delivered,247655.89,Processed
+36,400,16696,403,2026-02-24,Quality Not Satisfactory,7509.16,Processed
+37,411,15672,144,2024-10-18,Changed Mind,11842.09,Rejected
+38,434,15553,429,2025-03-28,Damaged Product,201758.82,Processed
+39,447,14678,134,2025-02-26,Damaged Product,13789.75,Pending
+40,455,16374,366,2024-11-19,Changed Mind,194620.97,Processed
+41,456,10140,175,2024-09-29,Wrong Item Delivered,16630.92,Processed
+42,461,7369,58,2024-12-06,Size Issue,12810.17,Processed
+43,481,240,379,2025-03-21,Product Not as Described,430.13,Processed
+44,490,1586,221,2024-11-04,Quality Not Satisfactory,2547.3,Pending
+45,492,6212,43,2024-12-25,Late Delivery,93042.06,Pending
+46,507,5011,447,2026-06-11,Quality Not Satisfactory,184459.33,Processed
+47,516,4941,131,2025-08-30,Damaged Product,6279.74,Processed
+48,518,15298,431,2026-07-06,Damaged Product,475.06,Pending
+49,522,13497,352,2025-10-05,Defective Product,59323.76,Rejected
+50,547,5003,7,2025-10-25,Size Issue,6498.52,Processed
+51,555,18735,241,2026-03-12,Late Delivery,1571.74,Pending
+52,569,4514,397,2025-10-13,Late Delivery,1413.42,Processed
+53,580,527,274,2025-03-27,Wrong Item Delivered,14563.5,Processed
+54,590,8152,310,2025-08-16,Size Issue,950.19,Rejected
+55,592,16881,349,2026-03-29,Late Delivery,15878.47,Rejected
+56,598,1227,11,2025-08-16,Late Delivery,232108.77,Processed
+57,646,2872,492,2025-04-04,Damaged Product,5259.21,Rejected
+58,651,8652,86,2025-09-13,Size Issue,6666.91,Processed
+59,657,4101,315,2025-05-23,Damaged Product,18106.52,Rejected
+60,672,14576,132,2025-06-20,Changed Mind,3816.01,Processed
+61,688,5865,443,2026-06-27,Late Delivery,26794.0,Pending
+62,699,17021,367,2025-02-15,Product Not as Described,3527.42,Rejected
+63,705,3553,127,2025-11-23,Quality Not Satisfactory,198892.03,Processed
+64,706,17184,80,2026-01-16,Damaged Product,5707.22,Pending
+65,711,17917,338,2025-04-03,Product Not as Described,386.84,Processed
+66,722,2838,225,2026-08-15,Damaged Product,5491.3,Processed
+67,754,6006,80,2024-08-20,Defective Product,6160.28,Processed
+68,757,13626,345,2025-02-06,Product Not as Described,19306.72,Processed
+69,765,10468,32,2025-09-01,Size Issue,804.15,Pending
+70,767,3738,404,2026-08-02,Changed Mind,269768.35,Processed
+71,781,9729,286,2025-01-01,Late Delivery,284869.87,Pending
+72,816,9326,314,2026-06-02,Changed Mind,7394.36,Processed
+73,825,16795,215,2024-09-18,Changed Mind,7455.57,Processed
+74,827,3898,438,2024-11-10,Damaged Product,1122.15,Processed
+75,831,4586,266,2026-08-02,Changed Mind,12531.37,Pending
+76,834,19337,285,2025-06-18,Product Not as Described,1732.55,Processed
+77,839,8986,245,2025-02-26,Changed Mind,7150.64,Rejected
+78,847,10722,325,2026-01-15,Size Issue,2746.17,Rejected
+79,848,11829,67,2025-04-24,Wrong Item Delivered,817.59,Processed
+80,870,3823,209,2026-03-05,Quality Not Satisfactory,13033.69,Processed
+81,895,18785,246,2025-09-17,Damaged Product,206609.35,Processed
+82,899,9166,87,2025-01-25,Size Issue,19962.64,Rejected
+83,905,10033,252,2025-08-03,Defective Product,2787.82,Processed
+84,917,15291,95,2025-06-07,Late Delivery,1810.64,Processed
+85,918,14053,350,2025-08-01,Changed Mind,71495.14,Pending
+86,938,17182,330,2024-11-12,Late Delivery,14203.12,Processed
+87,952,13250,474,2025-06-06,Wrong Item Delivered,93688.2,Processed
+88,957,16583,214,2025-11-30,Damaged Product,2158.46,Processed
+89,970,2120,494,2024-11-10,Changed Mind,281193.63,Pending
+90,976,5570,174,2025-03-11,Quality Not Satisfactory,68024.57,Pending
+91,995,5197,36,2024-09-16,Wrong Item Delivered,187983.77,Processed
+92,1004,15393,344,2024-09-26,Late Delivery,323.07,Rejected
+93,1010,7128,189,2026-06-15,Size Issue,627.87,Rejected
+94,1015,363,65,2026-02-09,Quality Not Satisfactory,1442.87,Processed
+95,1018,404,382,2025-06-30,Quality Not Satisfactory,23340.81,Processed
+96,1031,7890,64,2025-05-09,Quality Not Satisfactory,9020.85,Processed
+97,1040,8342,302,2025-11-10,Quality Not Satisfactory,42901.64,Rejected
+98,1047,1700,452,2026-05-15,Size Issue,13355.57,Processed
+99,1051,11602,361,2024-10-08,Wrong Item Delivered,10518.6,Processed
+100,1072,658,462,2025-07-31,Quality Not Satisfactory,393.83,Processed
+101,1082,1363,17,2026-04-10,Damaged Product,92350.21,Pending
+102,1086,137,318,2025-11-24,Product Not as Described,528722.83,Processed
+103,1100,12526,151,2025-02-04,Size Issue,65083.81,Processed
+104,1102,1806,11,2026-02-26,Size Issue,567249.74,Rejected
+105,1113,1383,287,2025-09-03,Product Not as Described,190317.41,Processed
+106,1114,7217,181,2026-05-30,Damaged Product,4821.98,Rejected
+107,1133,11768,175,2025-04-01,Late Delivery,4181.78,Rejected
+108,1154,777,64,2025-04-02,Late Delivery,2077.23,Processed
+109,1168,13905,281,2025-01-15,Quality Not Satisfactory,2510.57,Processed
+110,1174,11668,26,2026-02-06,Defective Product,481958.4,Processed
+111,1190,14977,36,2026-04-11,Quality Not Satisfactory,77395.41,Processed
+112,1211,17754,16,2026-06-05,Product Not as Described,1028.64,Pending
+113,1212,15441,445,2025-10-12,Changed Mind,15634.37,Processed
+114,1217,9534,159,2025-06-25,Defective Product,280.82,Pending
+115,1223,19679,476,2025-10-30,Defective Product,6700.3,Rejected
+116,1232,2704,431,2025-01-13,Late Delivery,486.87,Processed
+117,1250,19020,162,2026-06-27,Changed Mind,2348.1,Processed
+118,1265,10310,480,2024-08-20,Product Not as Described,331888.17,Processed
+119,1272,1407,317,2025-01-05,Changed Mind,13207.96,Processed
+120,1285,3837,483,2026-02-02,Wrong Item Delivered,57733.16,Pending
+121,1291,12387,375,2026-02-23,Damaged Product,84.2,Processed
+122,1293,13030,315,2024-12-19,Late Delivery,14367.07,Processed
+123,1295,5407,64,2024-08-24,Late Delivery,2230.62,Processed
+124,1324,7324,14,2026-07-09,Late Delivery,3847.03,Rejected
+125,1330,8925,215,2026-06-12,Wrong Item Delivered,18586.76,Processed
+126,1344,15716,460,2025-02-06,Wrong Item Delivered,1038.8,Processed
+127,1368,12504,495,2025-05-24,Size Issue,23104.13,Processed
+128,1394,1776,257,2025-02-13,Defective Product,14213.35,Processed
+129,1396,16534,307,2025-07-28,Late Delivery,4114.98,Processed
+130,1398,7334,178,2026-08-09,Changed Mind,2524.82,Rejected
+131,1429,11805,448,2025-03-28,Defective Product,2667.4,Processed
+132,1449,4777,193,2026-02-16,Product Not as Described,211638.58,Pending
+133,1461,15264,218,2025-03-16,Damaged Product,103247.76,Processed
+134,1486,4167,139,2024-09-18,Late Delivery,7803.89,Processed
+135,1493,5057,173,2026-08-01,Quality Not Satisfactory,200.32,Processed
+136,1501,5665,307,2025-02-11,Late Delivery,8334.31,Processed
+137,1503,17301,280,2025-04-02,Wrong Item Delivered,2187.19,Processed
+138,1510,15655,149,2025-03-02,Quality Not Satisfactory,8715.97,Rejected
+139,1519,18971,465,2025-08-19,Quality Not Satisfactory,1537.21,Rejected
+140,1534,3468,22,2024-12-01,Product Not as Described,5337.72,Processed
+141,1544,5156,357,2025-04-08,Changed Mind,21059.6,Pending
+142,1552,3068,130,2026-04-19,Quality Not Satisfactory,686.87,Processed
+143,1576,1100,455,2025-11-26,Damaged Product,175.23,Rejected
+144,1588,16610,44,2026-02-08,Wrong Item Delivered,4861.47,Processed
+145,1592,13385,21,2024-08-15,Late Delivery,50470.09,Pending
+146,1598,3123,57,2025-01-29,Wrong Item Delivered,15890.86,Processed
+147,1616,15938,164,2026-01-24,Quality Not Satisfactory,404.75,Pending
+148,1635,18950,185,2026-04-09,Wrong Item Delivered,777.03,Pending
+149,1659,11445,195,2024-12-24,Changed Mind,3777.2,Pending
+150,1665,10354,387,2025-02-10,Size Issue,20415.15,Processed
+151,1676,3972,236,2025-03-13,Late Delivery,13851.55,Rejected
+152,1693,921,497,2025-08-19,Defective Product,18178.17,Processed
+153,1713,9983,390,2025-04-24,Late Delivery,3128.51,Rejected
+154,1720,5845,235,2024-09-08,Product Not as Described,3344.87,Pending
+155,1727,3558,27,2024-08-17,Wrong Item Delivered,21129.63,Pending
+156,1736,15820,482,2025-10-23,Defective Product,41710.15,Processed
+157,1756,3186,366,2025-09-17,Wrong Item Delivered,75164.79,Processed
+158,1761,11804,282,2025-07-09,Changed Mind,537.09,Processed
+159,1762,10033,378,2025-12-17,Product Not as Described,8338.99,Processed
+160,1770,5592,473,2026-01-26,Damaged Product,110006.47,Rejected
+161,1774,6533,74,2025-12-12,Product Not as Described,20400.36,Rejected
+162,1776,16763,148,2024-11-06,Late Delivery,1474.09,Processed
+163,1782,16172,56,2025-01-13,Changed Mind,1234.73,Processed
+164,1786,5892,352,2025-04-30,Wrong Item Delivered,61249.47,Rejected
+165,1809,8908,403,2024-09-08,Quality Not Satisfactory,3103.72,Pending
+166,1817,4106,378,2025-03-22,Size Issue,2089.51,Rejected
+167,1829,10232,132,2025-02-25,Damaged Product,2457.54,Pending
+168,1834,12410,222,2025-02-13,Size Issue,21563.77,Processed
+169,1841,18628,99,2025-12-26,Size Issue,9192.76,Processed
+170,1844,19928,147,2026-07-05,Defective Product,639.02,Processed
+171,1846,16710,54,2025-10-20,Changed Mind,3119.23,Rejected
+172,1848,14804,147,2025-06-29,Quality Not Satisfactory,649.68,Processed
+173,1851,10541,260,2025-08-17,Wrong Item Delivered,466.49,Pending
+174,1870,9656,280,2026-02-23,Defective Product,1209.03,Processed
+175,1871,13927,219,2025-12-12,Changed Mind,225763.38,Processed
+176,1873,8290,12,2025-03-25,Wrong Item Delivered,22585.75,Pending
+177,1879,1755,402,2025-12-16,Defective Product,3791.99,Pending
+178,1888,10593,474,2024-08-08,Product Not as Described,181429.48,Processed
+179,1894,19244,366,2025-07-15,Quality Not Satisfactory,40419.62,Processed
+180,1897,1019,329,2026-04-01,Product Not as Described,4352.4,Processed
+181,1929,8225,196,2025-05-29,Size Issue,3310.71,Processed
+182,1970,3105,130,2024-10-27,Quality Not Satisfactory,3185.34,Rejected
+183,2001,10258,409,2025-05-18,Late Delivery,8072.58,Processed
+184,2034,1690,55,2025-05-24,Quality Not Satisfactory,736.55,Rejected
+185,2035,16508,221,2025-11-13,Wrong Item Delivered,6544.92,Processed
+186,2043,12659,219,2025-11-03,Late Delivery,377386.23,Pending
+187,2099,5657,325,2025-04-03,Quality Not Satisfactory,14874.78,Pending
+188,2105,696,286,2026-04-19,Changed Mind,330253.19,Processed
+189,2113,19498,323,2025-05-22,Damaged Product,528.07,Processed
+190,2128,2631,66,2025-08-03,Changed Mind,548.83,Rejected
+191,2129,8964,243,2025-03-05,Defective Product,3039.33,Processed
+192,2149,11863,292,2025-05-06,Damaged Product,27155.17,Rejected
+193,2176,8834,312,2025-08-11,Defective Product,6028.87,Processed
+194,2179,14838,140,2024-09-17,Changed Mind,494.62,Processed
+195,2181,2130,299,2026-02-23,Damaged Product,334961.48,Processed
+196,2190,3047,365,2024-08-23,Changed Mind,6941.14,Processed
+197,2210,17044,249,2025-12-12,Wrong Item Delivered,12291.83,Processed
+198,2215,210,247,2024-10-12,Wrong Item Delivered,2601.01,Processed
+199,2235,11022,62,2025-02-16,Defective Product,6228.6,Processed
+200,2243,6436,372,2026-03-08,Defective Product,341295.3,Pending
+201,2256,3564,419,2025-04-28,Late Delivery,31327.63,Processed
+202,2267,834,273,2024-08-27,Late Delivery,53043.41,Processed
+203,2283,16840,209,2026-02-12,Changed Mind,15214.09,Processed
+204,2286,5397,200,2026-06-26,Late Delivery,249.83,Rejected
+205,2288,15845,61,2025-04-30,Changed Mind,5607.5,Processed
+206,2325,9649,237,2025-11-28,Size Issue,146.31,Processed
+207,2380,15244,299,2026-05-03,Defective Product,207745.89,Pending
+208,2386,12134,174,2025-11-15,Wrong Item Delivered,15214.39,Pending
+209,2388,15412,62,2026-05-25,Changed Mind,9236.94,Processed
+210,2391,16047,469,2026-02-25,Late Delivery,466.63,Rejected
+211,2394,11606,62,2025-09-12,Late Delivery,5950.23,Rejected
+212,2397,9969,359,2025-12-26,Quality Not Satisfactory,19681.05,Pending
+213,2404,12336,133,2026-02-28,Late Delivery,5380.08,Rejected
+214,2409,9996,96,2024-08-14,Quality Not Satisfactory,5174.38,Rejected
+215,2414,7416,342,2026-01-05,Product Not as Described,1583.36,Rejected
+216,2423,13624,364,2025-01-09,Late Delivery,2560.57,Processed
+217,2428,17909,447,2026-05-02,Defective Product,138324.68,Pending
+218,2441,17161,317,2025-10-26,Damaged Product,2820.39,Pending
+219,2459,8790,278,2024-08-12,Wrong Item Delivered,7175.23,Pending
+220,2466,7772,118,2026-02-27,Size Issue,5557.74,Rejected
+221,2479,1096,19,2026-03-10,Damaged Product,9720.72,Processed
+222,2483,16024,125,2025-02-27,Product Not as Described,8065.1,Pending
+223,2490,7188,132,2025-06-13,Wrong Item Delivered,6519.63,Processed
+224,2517,7758,84,2025-08-27,Wrong Item Delivered,34294.68,Rejected
+225,2582,16268,145,2026-05-07,Size Issue,7903.39,Processed
+226,2586,641,208,2025-11-29,Wrong Item Delivered,2532.2,Processed
+227,2591,13715,13,2026-04-01,Quality Not Satisfactory,4215.23,Processed
+228,2604,9197,379,2025-02-18,Damaged Product,470.75,Processed
+229,2618,18998,60,2025-03-10,Late Delivery,1965.79,Pending
+230,2632,8166,293,2026-04-13,Changed Mind,3869.27,Processed
+231,2635,1237,58,2025-06-02,Wrong Item Delivered,5421.63,Processed
+232,2666,4800,323,2025-09-21,Changed Mind,455.68,Processed
+233,2667,7100,219,2025-09-12,Late Delivery,291530.18,Rejected
+234,2672,11155,290,2024-12-06,Changed Mind,1160.2,Pending
+235,2706,8078,362,2026-04-27,Changed Mind,1981.72,Rejected
+236,2711,4961,85,2026-04-04,Size Issue,1893.75,Rejected
+237,2730,3158,165,2025-03-17,Size Issue,921.22,Processed
+238,2740,9909,305,2025-12-15,Damaged Product,324168.7,Processed
+239,2745,17668,276,2024-11-18,Wrong Item Delivered,503.36,Rejected
+240,2750,15093,89,2025-03-26,Damaged Product,201271.31,Pending
+241,2751,16309,252,2025-06-28,Damaged Product,12903.81,Processed
+242,2771,12129,126,2025-08-19,Size Issue,7872.07,Processed
+243,2772,4429,288,2024-12-28,Late Delivery,2061.09,Rejected
+244,2796,7970,269,2026-01-22,Changed Mind,786.41,Processed
+245,2851,7518,322,2025-05-02,Changed Mind,236389.45,Rejected
+246,2857,13231,245,2025-02-20,Product Not as Described,4804.51,Rejected
+247,2872,10922,29,2026-06-02,Size Issue,490873.35,Rejected
+248,2879,9464,319,2025-02-23,Product Not as Described,2963.56,Processed
+249,2882,6572,123,2024-11-14,Damaged Product,2603.2,Rejected
+250,2888,19516,141,2025-03-08,Quality Not Satisfactory,354.51,Processed
+251,2909,1789,57,2024-11-20,Defective Product,9316.49,Pending
+252,2925,9374,262,2025-03-25,Defective Product,655.16,Processed
+253,2930,40,237,2024-08-01,Size Issue,156.23,Processed
+254,2931,10710,11,2024-10-12,Quality Not Satisfactory,300626.75,Rejected
+255,2944,10965,74,2026-05-07,Defective Product,28086.93,Processed
+256,2953,13642,280,2025-09-21,Defective Product,2523.3,Processed
+257,2970,14001,129,2025-12-16,Defective Product,85907.95,Pending
+258,2988,8694,32,2025-03-31,Size Issue,1125.4,Rejected
+259,2994,8287,91,2026-02-10,Quality Not Satisfactory,399049.49,Processed
+260,3007,12878,214,2025-04-18,Defective Product,4651.54,Pending
+261,3008,5166,169,2024-12-25,Size Issue,6392.64,Processed
+262,3010,632,282,2025-01-03,Size Issue,592.03,Processed
+263,3020,3051,471,2025-11-07,Product Not as Described,873.52,Processed
+264,3032,1665,462,2024-12-26,Size Issue,2049.14,Processed
+265,3039,9309,72,2025-11-06,Late Delivery,4104.93,Rejected
+266,3041,8071,246,2025-01-23,Wrong Item Delivered,40392.9,Pending
+267,3045,1516,210,2025-04-09,Quality Not Satisfactory,9744.98,Rejected
+268,3052,3367,254,2025-05-18,Size Issue,536.51,Pending
+269,3054,14934,422,2024-08-06,Quality Not Satisfactory,14996.7,Pending
+270,3056,10111,95,2025-05-10,Changed Mind,2289.67,Rejected
+271,3067,16255,391,2025-07-25,Late Delivery,520.68,Pending
+272,3076,5452,124,2025-11-02,Damaged Product,100571.77,Rejected
+273,3085,9667,190,2024-09-12,Defective Product,8039.0,Pending
+274,3086,18025,307,2024-11-07,Late Delivery,4060.36,Rejected
+275,3093,15839,210,2025-08-07,Quality Not Satisfactory,28384.64,Processed
+276,3095,7040,126,2025-03-21,Product Not as Described,6975.31,Rejected
+277,3100,4747,151,2025-01-19,Late Delivery,128483.52,Processed
+278,3104,627,247,2025-09-04,Changed Mind,1393.35,Rejected
+279,3121,3729,72,2025-12-17,Quality Not Satisfactory,3603.43,Processed
+280,3135,1867,160,2025-02-15,Quality Not Satisfactory,239782.41,Pending
+281,3139,3433,333,2025-09-05,Changed Mind,28553.51,Processed
+282,3140,305,99,2025-09-01,Late Delivery,2388.22,Processed
+283,3145,1563,475,2026-01-17,Product Not as Described,22115.28,Processed
+284,3161,17764,406,2026-01-15,Damaged Product,370186.94,Rejected
+285,3165,9993,122,2026-01-03,Defective Product,51992.88,Pending
+286,3167,19367,194,2026-05-27,Damaged Product,4251.79,Processed
+287,3168,12588,309,2026-05-09,Damaged Product,167378.65,Rejected
+288,3175,18890,477,2025-04-17,Changed Mind,1875.11,Processed
+289,3176,478,377,2025-04-17,Product Not as Described,340.32,Processed
+290,3180,11881,474,2025-07-11,Late Delivery,398404.07,Processed
+291,3210,17320,289,2026-04-12,Late Delivery,4196.76,Processed
+292,3215,18446,130,2025-10-19,Quality Not Satisfactory,3285.13,Processed
+293,3220,9544,335,2025-10-03,Quality Not Satisfactory,6665.43,Processed
+294,3232,11889,57,2026-04-22,Size Issue,13759.01,Processed
+295,3254,9000,6,2024-08-20,Wrong Item Delivered,15244.62,Processed
+296,3260,14099,155,2024-12-19,Changed Mind,31090.77,Processed
+297,3273,5675,413,2025-11-28,Product Not as Described,1120.41,Pending
+298,3280,10625,269,2025-11-17,Changed Mind,646.83,Processed
+299,3309,2914,36,2026-05-23,Late Delivery,37349.4,Processed
+300,3318,13918,456,2026-02-08,Size Issue,4739.28,Processed
+301,3323,17602,453,2024-09-16,Damaged Product,5286.56,Rejected
+302,3334,2268,348,2025-09-24,Product Not as Described,278890.37,Processed
+303,3345,470,382,2024-08-25,Wrong Item Delivered,23577.25,Processed
+304,3348,5333,386,2026-01-07,Late Delivery,1629.52,Processed
+305,3356,16251,441,2025-10-14,Damaged Product,4086.74,Processed
+306,3360,19933,227,2026-03-18,Changed Mind,2726.21,Rejected
+307,3365,6681,345,2026-02-12,Defective Product,12005.34,Processed
+308,3367,5364,419,2025-02-14,Damaged Product,140106.49,Processed
+309,3369,18486,299,2025-06-23,Changed Mind,81268.3,Processed
+310,3380,14279,224,2026-03-28,Changed Mind,3095.1,Processed
+311,3382,9889,313,2026-06-17,Changed Mind,138335.38,Processed
+312,3385,14589,293,2025-12-31,Defective Product,2873.02,Processed
+313,3408,4322,76,2026-04-15,Changed Mind,1725.72,Processed
+314,3421,9517,76,2026-07-02,Wrong Item Delivered,5284.89,Rejected
+315,3427,12013,321,2025-02-19,Changed Mind,3045.01,Pending
+316,3430,17778,209,2025-03-05,Defective Product,3665.75,Processed
+317,3432,9152,26,2026-07-26,Wrong Item Delivered,93602.98,Rejected
+318,3448,12377,279,2025-09-30,Late Delivery,261.98,Processed
+319,3484,14042,460,2025-01-23,Quality Not Satisfactory,1013.14,Processed
+320,3546,1273,486,2026-03-24,Damaged Product,14265.48,Rejected
+321,3575,3576,499,2025-04-02,Quality Not Satisfactory,34868.64,Processed
+322,3579,1035,258,2026-03-10,Damaged Product,4583.29,Processed
+323,3593,16099,319,2025-09-24,Damaged Product,1875.5,Rejected
+324,3620,5188,481,2026-02-11,Defective Product,510.5,Pending
+325,3637,2803,475,2026-01-24,Quality Not Satisfactory,9750.25,Processed
+326,3646,10373,213,2025-11-22,Product Not as Described,4025.18,Pending
+327,3681,15795,229,2025-03-08,Quality Not Satisfactory,712.37,Rejected
+328,3687,8512,351,2025-02-11,Changed Mind,3444.13,Processed
+329,3695,10473,266,2026-06-19,Quality Not Satisfactory,5831.17,Rejected
+330,3700,9286,255,2024-08-31,Quality Not Satisfactory,3297.1,Processed
+331,3710,7680,377,2025-06-23,Defective Product,555.28,Processed
+332,3719,18732,400,2024-09-18,Damaged Product,2009.56,Processed
+333,3742,17696,176,2024-11-28,Defective Product,2653.59,Processed
+334,3745,13664,123,2024-08-20,Changed Mind,4292.05,Processed
+335,3755,15111,15,2025-02-11,Defective Product,2029.95,Processed
+336,3757,3521,480,2024-12-11,Defective Product,59677.52,Pending
+337,3758,4608,116,2026-04-17,Damaged Product,1795.89,Processed
+338,3769,16411,78,2025-03-13,Changed Mind,34326.91,Processed
+339,3775,1531,175,2025-11-19,Wrong Item Delivered,4315.96,Processed
+340,3777,14888,99,2025-09-22,Size Issue,6836.38,Rejected
+341,3790,10450,227,2024-12-10,Wrong Item Delivered,2781.91,Pending
+342,3797,11693,404,2024-09-16,Changed Mind,205816.31,Pending
+343,3827,4423,183,2025-05-13,Product Not as Described,1750.36,Rejected
+344,3837,19682,56,2025-10-14,Damaged Product,3482.18,Pending
+345,3839,17343,421,2026-06-13,Defective Product,20724.35,Processed
+346,3841,16061,388,2025-09-07,Late Delivery,9191.04,Processed
+347,3862,3403,61,2025-04-23,Damaged Product,5156.58,Processed
+348,3868,13545,72,2025-11-14,Damaged Product,1877.96,Rejected
+349,3872,12028,214,2025-05-09,Quality Not Satisfactory,1969.75,Processed
+350,3885,16267,256,2026-04-13,Quality Not Satisfactory,1584.59,Processed
+351,3886,17833,96,2026-07-06,Product Not as Described,4099.18,Processed
+352,3901,5482,269,2025-05-06,Defective Product,781.59,Processed
+353,3905,9408,421,2026-01-03,Size Issue,23649.42,Rejected
+354,3908,17399,374,2026-07-06,Changed Mind,1021.85,Pending
+355,3918,3087,327,2025-10-23,Wrong Item Delivered,19358.51,Processed
+356,3930,11880,153,2025-11-03,Quality Not Satisfactory,64156.61,Pending
+357,3937,5051,344,2024-09-19,Late Delivery,756.34,Pending
+358,3938,12819,425,2025-08-02,Late Delivery,732.97,Processed
+359,3940,18601,250,2026-07-06,Size Issue,3224.93,Processed
+360,3949,9806,314,2025-01-28,Damaged Product,10050.19,Processed
+361,3950,9686,328,2025-07-02,Late Delivery,1962.88,Processed
+362,3955,16009,368,2026-08-15,Wrong Item Delivered,623.6,Rejected
+363,3957,593,446,2024-09-20,Size Issue,888.48,Rejected
+364,3980,14872,186,2026-04-18,Wrong Item Delivered,19268.7,Processed
+365,3989,7526,82,2026-01-09,Late Delivery,10959.98,Processed
+366,4040,12057,28,2025-02-10,Changed Mind,47646.54,Processed
+367,4052,8948,307,2024-08-17,Defective Product,8582.24,Pending
+368,4054,7804,478,2025-12-16,Wrong Item Delivered,6113.98,Rejected
+369,4064,7245,452,2025-11-10,Size Issue,19369.16,Processed
+370,4066,13143,268,2026-05-12,Changed Mind,209050.16,Processed
+371,4073,14612,319,2026-03-28,Size Issue,3304.22,Rejected
+372,4075,18530,446,2026-01-10,Changed Mind,1362.71,Rejected
+373,4095,2105,322,2025-01-20,Defective Product,189236.05,Processed
+374,4107,431,203,2025-03-16,Defective Product,2839.91,Processed
+375,4129,12463,228,2025-03-13,Defective Product,29569.9,Pending
+376,4134,14703,56,2025-06-23,Damaged Product,1158.66,Rejected
+377,4139,10312,350,2025-05-06,Damaged Product,65345.16,Processed
+378,4140,15542,113,2026-01-08,Late Delivery,1432.79,Processed
+379,4143,19532,360,2024-12-01,Product Not as Described,3090.65,Processed
+380,4144,9641,394,2025-09-11,Defective Product,131008.64,Processed
+381,4146,5014,105,2025-02-13,Damaged Product,187.45,Processed
+382,4158,2690,66,2024-10-09,Product Not as Described,1119.37,Processed
+383,4165,12428,394,2025-05-13,Late Delivery,131595.57,Pending
+384,4168,12650,494,2026-04-09,Damaged Product,192262.09,Processed
+385,4192,7237,218,2026-05-07,Late Delivery,112092.05,Rejected
+386,4195,1850,270,2026-07-21,Quality Not Satisfactory,1809.03,Processed
+387,4210,5142,164,2024-12-25,Changed Mind,192.73,Pending
+388,4213,19317,113,2025-10-21,Size Issue,1872.72,Processed
+389,4245,7288,334,2025-01-27,Damaged Product,2953.45,Processed
+390,4267,11510,11,2025-05-25,Damaged Product,206947.57,Pending
+391,4287,7796,207,2024-10-27,Late Delivery,454.38,Processed
+392,4301,19736,80,2026-06-08,Size Issue,7360.67,Processed
+393,4308,3645,185,2025-09-14,Defective Product,391.5,Rejected
+394,4318,13393,6,2024-12-20,Size Issue,15374.78,Processed
+395,4348,8301,46,2025-11-28,Changed Mind,54151.65,Processed
+396,4354,13563,428,2024-10-08,Late Delivery,36114.06,Pending
+397,4405,14107,373,2025-04-16,Defective Product,89147.75,Rejected
+398,4409,6699,155,2025-11-13,Defective Product,8445.69,Processed
+399,4416,14430,149,2025-02-12,Wrong Item Delivered,11193.02,Pending
+400,4418,5210,281,2025-04-20,Late Delivery,3273.42,Pending
+401,4423,9346,153,2026-05-31,Defective Product,143592.39,Pending
+402,4425,5748,393,2026-04-12,Product Not as Described,475.9,Processed
+403,4431,17462,127,2025-10-24,Defective Product,433465.42,Processed
+404,4433,11140,36,2025-06-14,Size Issue,125169.17,Processed
+405,4440,18651,122,2025-12-09,Late Delivery,61875.75,Processed
+406,4483,7787,58,2025-01-30,Defective Product,3035.55,Processed
+407,4484,6478,110,2025-10-12,Damaged Product,4746.99,Processed
+408,4493,1753,280,2026-07-02,Changed Mind,1746.87,Rejected
+409,4501,4509,286,2025-06-10,Size Issue,297456.96,Processed
+410,4503,5400,315,2025-08-12,Size Issue,24864.63,Processed
+411,4505,10025,69,2025-02-28,Size Issue,2177.7,Rejected
+412,4520,14746,169,2025-03-23,Quality Not Satisfactory,4971.76,Processed
+413,4535,16562,132,2025-12-08,Size Issue,3650.84,Rejected
+414,4546,16785,99,2025-05-28,Quality Not Satisfactory,11782.03,Rejected
+415,4547,3328,305,2026-05-28,Changed Mind,237735.94,Processed
+416,4554,1169,324,2025-05-29,Late Delivery,3154.23,Processed
+417,4560,13558,444,2026-06-25,Product Not as Described,8209.79,Processed
+418,4590,13516,443,2025-04-26,Product Not as Described,111250.39,Processed
+419,4602,3596,490,2025-11-12,Changed Mind,675.04,Processed
+420,4609,18568,469,2025-01-20,Changed Mind,1278.47,Processed
+421,4613,14203,448,2026-01-18,Quality Not Satisfactory,607.92,Rejected
+422,4628,18858,451,2024-08-15,Wrong Item Delivered,297264.41,Processed
+423,4629,5823,283,2024-08-07,Size Issue,4554.31,Processed
+424,4630,10535,334,2025-07-31,Changed Mind,1482.43,Processed
+425,4647,1057,343,2026-08-05,Defective Product,13513.99,Processed
+426,4649,14264,92,2025-02-18,Late Delivery,2826.07,Processed
+427,4680,13184,467,2025-01-08,Product Not as Described,5869.11,Rejected
+428,4684,6517,206,2026-04-20,Size Issue,1839.04,Rejected
+429,4689,5146,296,2026-03-07,Late Delivery,1004.22,Processed
+430,4696,6758,183,2024-11-23,Wrong Item Delivered,2860.6,Rejected
+431,4720,14440,279,2024-08-09,Wrong Item Delivered,238.69,Processed
+432,4752,19517,422,2026-02-26,Wrong Item Delivered,11221.99,Processed
+433,4762,14802,173,2024-10-28,Wrong Item Delivered,111.31,Pending
+434,4810,4049,418,2025-03-16,Late Delivery,41771.4,Processed
+435,4811,18318,276,2025-01-19,Changed Mind,3105.96,Pending
+436,4838,13555,205,2026-07-08,Changed Mind,64892.94,Pending
+437,4841,1990,484,2025-11-23,Changed Mind,491537.49,Pending
+438,4844,10751,385,2024-08-15,Wrong Item Delivered,2339.56,Processed
+439,4852,10438,382,2025-09-22,Changed Mind,21671.7,Pending
+440,4868,6830,241,2025-11-10,Quality Not Satisfactory,1208.14,Rejected
+441,4878,14483,256,2025-10-25,Late Delivery,1077.79,Rejected
+442,4889,390,263,2025-03-12,Wrong Item Delivered,6447.27,Rejected
+443,4901,13447,232,2025-02-25,Damaged Product,178227.47,Rejected
+444,4920,223,10,2024-10-24,Quality Not Satisfactory,7399.33,Rejected
+445,4947,9161,228,2026-03-19,Late Delivery,45998.51,Processed
+446,4953,11073,57,2025-04-25,Late Delivery,18589.4,Rejected
+447,4961,11845,33,2026-01-18,Late Delivery,12593.4,Processed
+448,4964,12380,351,2025-11-29,Changed Mind,665.68,Pending
+449,4970,15773,54,2024-08-08,Product Not as Described,2097.4,Rejected
+450,4974,2400,202,2026-03-03,Wrong Item Delivered,3266.27,Processed
+451,4981,944,234,2026-02-12,Product Not as Described,2463.01,Rejected
+452,4997,4481,299,2025-03-28,Quality Not Satisfactory,302831.41,Pending
+453,5037,7352,89,2026-05-16,Changed Mind,267834.45,Processed
+454,5038,4578,148,2024-12-23,Quality Not Satisfactory,4672.62,Processed
+455,5039,19555,354,2025-07-08,Quality Not Satisfactory,2055.11,Rejected
+456,5041,4711,448,2025-05-31,Damaged Product,1675.24,Processed
+457,5048,11201,315,2025-09-08,Changed Mind,14335.09,Rejected
+458,5053,15607,327,2025-10-25,Late Delivery,17295.14,Rejected
+459,5065,11279,131,2024-11-01,Quality Not Satisfactory,6715.44,Rejected
+460,5066,14214,119,2024-11-08,Late Delivery,12038.69,Processed
+461,5095,6089,223,2026-06-21,Quality Not Satisfactory,255815.92,Processed
+462,5118,8472,312,2026-04-13,Wrong Item Delivered,6222.42,Rejected
+463,5120,17902,490,2025-05-29,Late Delivery,1951.03,Processed
+464,5130,4416,444,2024-10-13,Wrong Item Delivered,10747.07,Rejected
+465,5137,2306,73,2026-06-03,Defective Product,152112.92,Pending
+466,5143,13699,307,2025-12-20,Changed Mind,6161.98,Pending
+467,5150,19914,100,2026-07-16,Wrong Item Delivered,435.9,Processed
+468,5163,15773,181,2025-01-10,Late Delivery,10708.55,Rejected
+469,5179,666,371,2026-07-27,Damaged Product,813.06,Pending
+470,5187,18278,260,2025-04-17,Damaged Product,1171.96,Processed
+471,5196,18512,349,2026-02-04,Product Not as Described,3718.16,Rejected
+472,5199,2786,144,2025-02-24,Late Delivery,22417.35,Rejected
+473,5218,9188,73,2024-09-03,Size Issue,34032.18,Processed
+474,5233,5705,208,2024-12-25,Wrong Item Delivered,1321.18,Processed
+475,5250,7855,58,2025-01-30,Size Issue,3185.5,Pending
+476,5252,15162,438,2025-03-08,Late Delivery,1597.63,Rejected
+477,5268,8941,91,2024-12-14,Late Delivery,224319.76,Processed
+478,5276,7370,239,2024-11-24,Defective Product,13496.78,Processed
+479,5297,4981,142,2025-02-06,Late Delivery,4791.15,Rejected
+480,5302,9052,205,2024-11-19,Quality Not Satisfactory,26994.91,Rejected
+481,5358,12958,91,2025-05-04,Damaged Product,416331.37,Pending
+482,5360,9087,52,2025-05-10,Defective Product,28211.54,Processed
+483,5377,7883,372,2026-05-11,Defective Product,147052.44,Rejected
+484,5388,1350,308,2026-08-04,Changed Mind,9879.58,Rejected
+485,5399,7900,139,2025-08-29,Size Issue,1952.59,Rejected
+486,5403,7201,257,2026-06-01,Damaged Product,15301.64,Processed
+487,5409,5526,44,2026-05-23,Size Issue,4162.86,Pending
+488,5431,653,478,2026-02-03,Quality Not Satisfactory,10817.95,Processed
+489,5475,261,194,2025-09-02,Changed Mind,6497.66,Processed
+490,5509,18007,391,2025-03-20,Defective Product,544.81,Pending
+491,5512,1728,24,2025-03-19,Quality Not Satisfactory,7063.98,Processed
+492,5517,17682,118,2026-03-31,Damaged Product,32646.43,Rejected
+493,5519,2968,228,2025-10-30,Quality Not Satisfactory,37738.11,Processed
+494,5539,15828,231,2026-06-25,Size Issue,186378.37,Pending
+495,5555,12957,77,2025-02-05,Product Not as Described,846.2,Pending
+496,5569,18075,267,2025-08-14,Wrong Item Delivered,7503.85,Processed
+497,5584,17988,152,2025-06-26,Changed Mind,102619.9,Processed
+498,5596,12683,210,2025-06-10,Wrong Item Delivered,16372.1,Processed
+499,5605,17364,93,2026-01-22,Damaged Product,14156.45,Processed
+500,5611,17491,72,2025-07-14,Wrong Item Delivered,1871.47,Processed
+501,5613,1215,137,2025-08-11,Size Issue,2365.82,Processed
+502,5628,4471,332,2025-01-19,Changed Mind,10137.38,Rejected
+503,5638,5977,201,2025-06-13,Defective Product,26756.31,Processed
+504,5640,7451,387,2024-10-24,Wrong Item Delivered,26558.13,Processed
+505,5650,10867,478,2025-08-22,Wrong Item Delivered,4425.61,Processed
+506,5661,13421,55,2025-03-25,Damaged Product,2836.47,Processed
+507,5664,7005,490,2025-09-25,Size Issue,1300.9,Processed
+508,5693,15539,450,2024-07-30,Wrong Item Delivered,1108.53,Processed
+509,5697,7960,338,2025-05-10,Changed Mind,635.79,Processed
+510,5698,5445,318,2024-09-20,Changed Mind,188984.88,Processed
+511,5715,11692,97,2026-05-17,Quality Not Satisfactory,3188.31,Rejected
+512,5727,979,153,2025-04-01,Size Issue,132269.01,Processed
+513,5731,11129,214,2025-04-03,Size Issue,4791.28,Pending
+514,5742,17797,36,2024-08-23,Damaged Product,169292.8,Processed
+515,5752,18671,135,2025-07-18,Damaged Product,255835.42,Processed
+516,5763,18851,105,2026-05-26,Changed Mind,847.02,Processed
+517,5768,12917,402,2025-09-30,Defective Product,1844.65,Pending
+518,5782,15644,28,2024-12-24,Quality Not Satisfactory,89398.14,Processed
+519,5797,429,379,2026-02-17,Defective Product,869.48,Pending
+520,5823,16242,430,2026-05-03,Product Not as Described,28583.07,Rejected
+521,5844,14865,93,2025-11-23,Changed Mind,15941.44,Processed
+522,5853,9944,10,2024-08-28,Late Delivery,14420.33,Processed
+523,5862,4608,171,2026-04-07,Wrong Item Delivered,5095.53,Processed
+524,5868,5495,481,2025-10-23,Changed Mind,1166.74,Pending
+525,5870,9359,63,2025-05-11,Changed Mind,6155.98,Processed
+526,5875,18358,191,2025-01-25,Damaged Product,2086.22,Processed
+527,5897,9655,268,2025-07-08,Size Issue,292577.42,Processed
+528,5901,15404,375,2026-06-17,Late Delivery,258.81,Rejected
+529,5935,5195,375,2024-10-01,Changed Mind,464.58,Pending
+530,5942,8438,319,2025-10-12,Defective Product,2895.95,Pending
+531,5943,11628,21,2025-07-02,Changed Mind,120403.38,Processed
+532,5951,143,116,2026-01-29,Late Delivery,6643.74,Pending
+533,5953,8088,422,2025-12-16,Quality Not Satisfactory,8925.63,Processed
+534,5970,7366,276,2024-10-30,Wrong Item Delivered,1856.92,Processed
+535,5985,1474,314,2025-01-09,Defective Product,10723.03,Pending
+536,5990,18750,465,2025-09-09,Product Not as Described,1674.52,Processed
+537,6011,1791,426,2024-08-16,Wrong Item Delivered,19866.01,Pending
+538,6014,18307,477,2024-12-17,Changed Mind,1245.82,Rejected
+539,6017,16954,39,2025-07-07,Size Issue,1765.08,Processed
+540,6023,5981,178,2024-08-18,Product Not as Described,1482.98,Processed
+541,6035,11588,174,2024-11-16,Damaged Product,72572.96,Pending
+542,6078,17736,271,2024-10-25,Size Issue,863.53,Processed
+543,6089,16203,53,2025-01-03,Size Issue,43787.15,Processed
+544,6090,6421,467,2025-06-23,Size Issue,1992.76,Processed
+545,6091,17706,359,2026-07-11,Size Issue,7380.63,Processed
+546,6115,16962,60,2025-09-03,Late Delivery,9590.61,Rejected
+547,6118,12781,206,2026-03-09,Changed Mind,6614.74,Rejected
+548,6122,13467,310,2025-02-05,Quality Not Satisfactory,4046.28,Rejected
+549,6126,16123,419,2026-05-03,Quality Not Satisfactory,167932.6,Rejected
+550,6141,358,101,2026-02-02,Size Issue,18494.95,Processed
+551,6143,7355,80,2025-09-23,Wrong Item Delivered,10466.77,Processed
+552,6147,4662,308,2024-10-21,Quality Not Satisfactory,2129.09,Pending
+553,6193,14257,174,2026-06-29,Size Issue,15397.6,Rejected
+554,6197,19316,310,2025-07-11,Size Issue,2321.76,Pending
+555,6219,9753,344,2026-03-15,Quality Not Satisfactory,342.19,Processed
+556,6240,6755,384,2026-07-10,Damaged Product,1931.73,Pending
+557,6246,6881,119,2026-02-12,Damaged Product,12541.97,Processed
+558,6266,9411,128,2025-07-20,Quality Not Satisfactory,2312.52,Rejected
+559,6278,7245,74,2026-01-05,Quality Not Satisfactory,31294.8,Rejected
+560,6302,13261,311,2026-01-07,Defective Product,955.98,Rejected
+561,6307,4342,101,2025-02-25,Defective Product,18795.46,Pending
+562,6316,750,421,2025-07-22,Defective Product,37971.89,Processed
+563,6317,524,330,2024-08-07,Defective Product,15444.78,Pending
+564,6327,19617,41,2024-12-25,Wrong Item Delivered,10282.73,Processed
+565,6334,16346,163,2025-10-03,Damaged Product,9708.51,Processed
+566,6340,8281,121,2025-09-15,Size Issue,851.54,Processed
+567,6355,15914,156,2024-12-28,Changed Mind,54808.62,Processed
+568,6358,13507,314,2025-02-04,Changed Mind,4591.86,Rejected
+569,6361,10907,152,2026-04-29,Damaged Product,134771.34,Processed
+570,6368,13992,392,2026-03-31,Wrong Item Delivered,161248.85,Rejected
+571,6370,8288,398,2024-08-16,Defective Product,1855.05,Pending
+572,6393,15845,57,2026-05-19,Changed Mind,20543.42,Processed
+573,6403,18263,72,2025-11-02,Size Issue,5704.64,Processed
+574,6418,17703,413,2025-02-09,Size Issue,420.03,Pending
+575,6427,19188,35,2026-04-17,Late Delivery,5723.61,Processed
+576,6491,8617,369,2025-11-25,Product Not as Described,3391.72,Pending
+577,6513,4964,193,2026-05-10,Changed Mind,170269.69,Pending
+578,6524,13937,439,2025-04-24,Quality Not Satisfactory,12254.0,Processed
+579,6542,2753,385,2025-11-25,Late Delivery,2229.88,Rejected
+580,6551,1800,303,2025-12-01,Quality Not Satisfactory,38010.02,Processed
+581,6559,10186,201,2025-05-29,Size Issue,10157.13,Pending
+582,6564,19623,361,2025-09-10,Changed Mind,10584.36,Processed
+583,6569,10743,401,2025-10-17,Damaged Product,800.72,Processed
+584,6588,14017,195,2025-11-28,Late Delivery,3073.47,Processed
+585,6589,3815,230,2026-01-30,Damaged Product,17668.51,Processed
+586,6600,13312,88,2025-06-22,Defective Product,1327.01,Rejected
+587,6608,9847,38,2024-10-30,Wrong Item Delivered,417246.63,Pending
+588,6638,7463,430,2026-04-15,Product Not as Described,26978.45,Processed
+589,6651,17063,175,2025-08-30,Late Delivery,23297.85,Processed
+590,6694,10700,85,2024-12-06,Product Not as Described,1634.21,Rejected
+591,6702,18963,177,2025-11-12,Defective Product,2580.58,Pending
+592,6722,9444,162,2026-01-09,Quality Not Satisfactory,5109.21,Rejected
+593,6728,7,202,2025-01-21,Defective Product,10815.75,Processed
+594,6741,5871,117,2024-08-06,Product Not as Described,2054.96,Processed
+595,6785,3796,448,2026-07-20,Product Not as Described,2550.36,Processed
+596,6794,3374,252,2025-12-06,Product Not as Described,14983.11,Rejected
+597,6798,19997,464,2026-05-23,Defective Product,2581.38,Pending
+598,6810,11627,408,2025-12-03,Changed Mind,162.49,Pending
+599,6818,5904,72,2026-01-25,Product Not as Described,9836.87,Processed
+600,6822,10958,188,2025-03-22,Quality Not Satisfactory,3287.91,Pending
+601,6828,9148,497,2024-09-17,Changed Mind,49408.65,Rejected
+602,6836,1046,62,2025-06-12,Changed Mind,6768.57,Processed
+603,6865,12888,156,2024-08-31,Defective Product,89174.3,Rejected
+604,6867,12177,111,2026-04-14,Quality Not Satisfactory,247584.76,Rejected
+605,6869,3274,367,2025-03-10,Defective Product,1992.16,Pending
+606,6876,1641,440,2025-03-27,Defective Product,18287.74,Processed
+607,6920,1744,18,2024-09-25,Late Delivery,1843.14,Pending
+608,6935,6170,233,2026-01-30,Size Issue,163402.02,Pending
+609,6975,9902,445,2024-11-21,Damaged Product,6674.52,Pending
+610,6995,18599,152,2025-02-08,Late Delivery,82653.0,Pending
+611,6996,17664,458,2025-12-22,Size Issue,59699.74,Processed
+612,7009,12625,37,2025-01-02,Late Delivery,19695.59,Rejected
+613,7028,5172,132,2025-06-19,Defective Product,6340.36,Pending
+614,7035,7142,410,2025-11-27,Product Not as Described,4509.49,Processed
+615,7057,14048,196,2025-04-29,Damaged Product,1875.02,Processed
+616,7060,8747,499,2025-01-06,Defective Product,31776.46,Processed
+617,7067,9137,470,2026-03-12,Product Not as Described,2489.82,Processed
+618,7068,16466,12,2024-11-23,Size Issue,18127.73,Processed
+619,7075,4343,345,2024-12-24,Product Not as Described,14147.12,Rejected
+620,7078,14526,372,2026-02-13,Size Issue,215763.92,Processed
+621,7082,14141,313,2025-06-16,Damaged Product,180676.06,Processed
+622,7084,9468,198,2026-01-21,Quality Not Satisfactory,358661.46,Pending
+623,7090,8053,350,2025-10-13,Quality Not Satisfactory,34353.02,Processed
+624,7092,8165,271,2025-07-26,Product Not as Described,828.79,Processed
+625,7094,8317,126,2026-03-05,Product Not as Described,8425.8,Processed
+626,7131,8847,293,2025-01-20,Changed Mind,3554.41,Processed
+627,7135,15424,51,2025-09-08,Quality Not Satisfactory,367.04,Processed
+628,7149,5939,484,2026-07-25,Late Delivery,350227.5,Processed
+629,7165,3012,110,2026-03-07,Changed Mind,6342.3,Pending
+630,7167,17062,426,2025-11-03,Late Delivery,80790.71,Processed
+631,7174,3752,130,2025-10-25,Quality Not Satisfactory,4111.33,Processed
+632,7180,4884,129,2025-11-30,Quality Not Satisfactory,89693.63,Processed
+633,7183,17701,98,2026-06-29,Quality Not Satisfactory,125185.95,Rejected
+634,7186,16907,202,2024-12-04,Quality Not Satisfactory,3139.12,Processed
+635,7191,3964,114,2025-03-24,Size Issue,43816.43,Pending
+636,7199,12276,458,2025-07-05,Defective Product,131443.55,Rejected
+637,7200,4275,332,2025-10-13,Late Delivery,12700.68,Processed
+638,7226,10597,42,2024-10-16,Late Delivery,300279.03,Processed
+639,7237,5232,454,2025-04-13,Late Delivery,65414.53,Rejected
+640,7239,7224,372,2025-07-16,Damaged Product,255620.02,Processed
+641,7242,10563,70,2025-09-21,Quality Not Satisfactory,2194.67,Pending
+642,7266,13546,34,2024-09-22,Quality Not Satisfactory,3103.42,Processed
+643,7272,12003,474,2025-03-29,Defective Product,303206.76,Processed
+644,7312,5526,407,2024-11-03,Wrong Item Delivered,10155.1,Processed
+645,7314,10567,278,2026-06-25,Wrong Item Delivered,17106.52,Rejected
+646,7316,16024,175,2026-02-12,Size Issue,20901.76,Processed
+647,7320,7295,366,2024-08-24,Damaged Product,78393.44,Processed
+648,7340,1299,398,2025-03-09,Late Delivery,661.16,Processed
+649,7342,614,47,2025-08-24,Size Issue,109059.28,Processed
+650,7367,2971,230,2024-12-04,Defective Product,68405.51,Processed
+651,7371,16909,147,2025-05-28,Product Not as Described,1432.57,Processed
+652,7397,14627,129,2025-03-19,Product Not as Described,426810.68,Rejected
+653,7399,5595,470,2024-12-23,Damaged Product,2237.66,Processed
+654,7413,19110,338,2025-03-29,Late Delivery,405.13,Processed
+655,7423,5503,458,2026-03-15,Wrong Item Delivered,279880.73,Rejected
+656,7437,16562,467,2026-02-23,Damaged Product,1969.8,Processed
+657,7453,12865,466,2024-09-13,Quality Not Satisfactory,1267.38,Processed
+658,7469,13277,423,2024-11-30,Defective Product,3107.82,Pending
+659,7474,6891,251,2026-01-13,Product Not as Described,102420.63,Rejected
+660,7482,8809,403,2025-05-02,Wrong Item Delivered,8789.2,Processed
+661,7490,12140,225,2025-10-06,Wrong Item Delivered,1627.14,Processed
+662,7496,11548,47,2025-06-04,Changed Mind,44662.64,Pending
+663,7498,1983,188,2025-10-26,Defective Product,16291.37,Processed
+664,7513,19158,449,2024-08-04,Late Delivery,3131.69,Processed
+665,7519,4093,39,2025-06-20,Defective Product,3499.19,Pending
+666,7532,9414,186,2025-05-23,Damaged Product,20707.08,Processed
+667,7533,16905,459,2025-01-17,Product Not as Described,5433.34,Processed
+668,7537,6381,152,2025-07-31,Defective Product,129665.12,Rejected
+669,7540,11791,411,2025-04-17,Damaged Product,7007.09,Processed
+670,7541,11498,303,2026-04-21,Wrong Item Delivered,7427.96,Rejected
+671,7542,4141,184,2026-08-04,Product Not as Described,4974.9,Processed
+672,7549,10223,117,2026-05-17,Defective Product,2049.19,Processed
+673,7550,9120,124,2024-09-21,Damaged Product,190206.53,Rejected
+674,7560,19568,278,2026-04-17,Defective Product,18302.89,Processed
+675,7564,19852,264,2025-01-05,Quality Not Satisfactory,3287.89,Processed
+676,7585,18071,281,2025-05-19,Damaged Product,6077.43,Processed
+677,7593,5368,213,2024-12-14,Defective Product,3945.61,Processed
+678,7596,11746,451,2026-01-24,Wrong Item Delivered,190165.3,Processed
+679,7615,8914,485,2024-11-19,Wrong Item Delivered,719.06,Rejected
+680,7620,6148,454,2024-08-29,Product Not as Described,147336.12,Processed
+681,7627,920,158,2025-07-27,Quality Not Satisfactory,1960.7,Processed
+682,7657,1663,403,2025-02-10,Damaged Product,5513.37,Processed
+683,7670,2497,435,2025-03-01,Late Delivery,173.33,Pending
+684,7675,970,332,2025-11-03,Wrong Item Delivered,12696.2,Processed
+685,7678,495,124,2025-11-24,Damaged Product,297675.22,Processed
+686,7714,4376,176,2025-05-10,Size Issue,542.07,Processed
+687,7740,381,185,2025-09-03,Wrong Item Delivered,1176.72,Pending
+688,7748,7189,404,2026-05-20,Size Issue,48606.43,Rejected
+689,7758,4857,322,2025-12-31,Wrong Item Delivered,103104.27,Processed
+690,7771,2960,354,2026-02-16,Wrong Item Delivered,514.85,Processed
+691,7773,18685,359,2025-04-07,Size Issue,8110.8,Processed
+692,7775,13261,429,2026-03-29,Wrong Item Delivered,508303.29,Pending
+693,7781,8331,97,2024-09-27,Changed Mind,2913.08,Processed
+694,7792,13765,322,2024-11-29,Changed Mind,230949.57,Pending
+695,7810,5049,391,2025-04-21,Defective Product,740.92,Processed
+696,7819,6400,56,2024-09-08,Size Issue,3406.56,Processed
+697,7826,5154,480,2026-01-25,Wrong Item Delivered,185446.27,Processed
+698,7828,3275,264,2025-09-20,Size Issue,715.78,Processed
+699,7841,6730,266,2025-08-30,Size Issue,12305.13,Processed
+700,7842,18393,82,2024-10-10,Defective Product,10048.55,Rejected
+701,7846,8499,221,2025-05-12,Product Not as Described,3516.0,Pending
+702,7855,7379,66,2026-02-17,Product Not as Described,1031.76,Processed
+703,7857,12057,320,2025-11-19,Defective Product,1470.9,Processed
+704,7861,19379,391,2025-01-01,Changed Mind,743.78,Processed
+705,7865,15773,421,2025-01-27,Size Issue,28457.3,Processed
+706,7880,11960,46,2026-04-16,Wrong Item Delivered,163681.7,Processed
+707,7888,15005,375,2026-02-01,Product Not as Described,403.42,Pending
+708,7896,2617,245,2026-01-23,Wrong Item Delivered,3297.32,Rejected
+709,7897,659,84,2024-11-20,Late Delivery,6257.15,Processed
+710,7906,8876,160,2024-09-07,Wrong Item Delivered,85625.38,Processed
+711,7911,157,263,2024-10-25,Size Issue,7158.59,Rejected
+712,7940,6275,203,2025-02-14,Late Delivery,1441.62,Processed
+713,7965,18148,434,2025-11-08,Quality Not Satisfactory,2454.81,Rejected
+714,7987,4021,360,2025-03-20,Product Not as Described,2003.73,Processed
+715,8000,5019,223,2026-01-01,Changed Mind,70086.71,Rejected
+716,8012,9968,91,2026-03-24,Product Not as Described,329893.52,Pending
+717,8013,3947,265,2026-04-08,Late Delivery,2824.33,Processed
+718,8023,5103,288,2025-03-24,Wrong Item Delivered,2095.63,Processed
+719,8026,3618,256,2026-03-20,Product Not as Described,666.11,Rejected
+720,8034,17157,301,2024-12-27,Defective Product,4852.77,Processed
+721,8056,1482,454,2025-11-08,Size Issue,68549.85,Processed
+722,8062,8325,463,2025-06-23,Size Issue,1284.9,Pending
+723,8064,15282,75,2026-03-04,Product Not as Described,1468.36,Pending
+724,8065,17335,329,2024-12-14,Product Not as Described,2285.34,Pending
+725,8074,14220,122,2026-05-02,Changed Mind,12651.82,Processed
+726,8077,7204,29,2026-03-21,Changed Mind,579034.32,Pending
+727,8080,6179,110,2026-06-05,Size Issue,3353.99,Processed
+728,8085,7191,479,2025-12-28,Product Not as Described,28934.75,Processed
+729,8115,16910,155,2025-09-19,Wrong Item Delivered,25009.75,Pending
+730,8118,13964,137,2025-08-18,Defective Product,2781.54,Processed
+731,8120,15529,487,2025-01-03,Quality Not Satisfactory,855.39,Processed
+732,8134,12394,37,2025-05-09,Quality Not Satisfactory,11058.36,Processed
+733,8148,2351,269,2026-04-17,Product Not as Described,541.42,Rejected
+734,8155,7818,474,2024-11-02,Quality Not Satisfactory,447469.94,Processed
+735,8169,5513,419,2026-05-09,Size Issue,58488.38,Rejected
+736,8182,11687,315,2024-11-02,Quality Not Satisfactory,14039.79,Processed
+737,8184,8168,416,2025-02-26,Product Not as Described,3539.57,Processed
+738,8197,14726,100,2024-11-16,Late Delivery,1186.02,Processed
+739,8202,1922,292,2026-03-16,Late Delivery,76232.43,Pending
+740,8214,16877,194,2025-10-30,Wrong Item Delivered,9574.84,Processed
+741,8216,8418,63,2024-09-25,Wrong Item Delivered,4099.59,Processed
+742,8229,5724,223,2025-12-07,Wrong Item Delivered,185367.28,Processed
+743,8234,7653,65,2026-01-08,Damaged Product,2027.05,Pending
+744,8252,16435,37,2024-09-30,Changed Mind,10975.94,Processed
+745,8253,5678,310,2025-01-07,Late Delivery,5508.18,Processed
+746,8261,5505,387,2024-08-14,Late Delivery,24522.89,Processed
+747,8262,18206,331,2025-05-23,Changed Mind,95477.34,Processed
+748,8271,4433,314,2026-05-24,Size Issue,10269.21,Processed
+749,8276,4136,46,2025-09-04,Product Not as Described,51826.74,Processed
+750,8292,16779,467,2025-05-10,Size Issue,9626.13,Processed
+751,8301,12813,100,2024-10-28,Defective Product,2009.34,Rejected
+752,8308,12359,301,2025-09-30,Defective Product,7913.13,Processed
+753,8326,9181,16,2025-04-29,Wrong Item Delivered,3900.19,Processed
+754,8353,7724,409,2025-11-06,Product Not as Described,6193.55,Pending
+755,8363,7539,242,2026-01-27,Late Delivery,3437.37,Processed
+756,8367,15874,76,2024-11-17,Changed Mind,3343.12,Rejected
+757,8380,4307,448,2025-07-18,Product Not as Described,2617.87,Processed
+758,8384,10605,280,2026-03-01,Quality Not Satisfactory,1227.14,Rejected
+759,8386,17727,117,2025-01-16,Damaged Product,2478.95,Processed
+760,8406,18028,473,2024-09-11,Damaged Product,32377.72,Pending
+761,8407,1866,24,2025-01-07,Wrong Item Delivered,4946.23,Processed
+762,8410,7348,228,2025-01-02,Size Issue,10412.54,Processed
+763,8426,17091,141,2026-02-02,Product Not as Described,961.83,Processed
+764,8429,14664,50,2024-11-02,Size Issue,44866.52,Rejected
+765,8432,17581,86,2025-06-02,Late Delivery,2809.17,Rejected
+766,8440,16079,431,2026-01-13,Late Delivery,1508.58,Rejected
+767,8443,13634,257,2024-09-27,Wrong Item Delivered,15746.05,Processed
+768,8473,9249,348,2024-08-12,Quality Not Satisfactory,279918.58,Pending
+769,8490,11036,95,2025-12-04,Damaged Product,409.34,Rejected
+770,8498,17945,269,2025-10-14,Size Issue,716.57,Processed
+771,8517,16934,5,2025-11-27,Wrong Item Delivered,2548.58,Processed
+772,8520,3397,415,2024-10-10,Wrong Item Delivered,1002.77,Processed
+773,8527,4605,455,2026-08-14,Changed Mind,43.58,Processed
+774,8533,6271,164,2025-04-05,Wrong Item Delivered,788.58,Processed
+775,8549,1225,386,2024-10-03,Defective Product,1402.96,Rejected
+776,8552,17132,395,2025-03-17,Defective Product,3509.56,Processed
+777,8574,7903,39,2026-03-27,Wrong Item Delivered,1408.56,Rejected
+778,8609,14509,126,2025-03-05,Changed Mind,3593.89,Rejected
+779,8651,12214,98,2026-04-10,Quality Not Satisfactory,35476.92,Rejected
+780,8656,990,107,2026-03-23,Product Not as Described,1390.68,Processed
+781,8671,9868,214,2025-02-06,Changed Mind,2227.66,Processed
+782,8675,19835,308,2024-11-28,Damaged Product,6072.03,Processed
+783,8696,8050,135,2025-06-08,Damaged Product,59662.51,Processed
+784,8707,6497,384,2026-02-19,Damaged Product,1241.63,Processed
+785,8726,4890,72,2025-06-30,Changed Mind,7430.7,Processed
+786,8731,18801,324,2025-07-16,Quality Not Satisfactory,5456.01,Rejected
+787,8738,11149,314,2024-10-08,Wrong Item Delivered,8823.29,Rejected
+788,8742,9130,214,2025-12-31,Wrong Item Delivered,1046.7,Processed
+789,8743,6098,270,2025-02-06,Size Issue,347.41,Processed
+790,8757,19550,470,2026-01-16,Product Not as Described,4970.63,Processed
+791,8759,17513,353,2025-07-04,Changed Mind,1044.58,Processed
+792,8773,2991,449,2024-12-29,Wrong Item Delivered,2030.18,Processed
+793,8804,6775,66,2025-09-14,Changed Mind,563.71,Rejected
+794,8810,11238,476,2025-09-10,Size Issue,2606.8,Pending
+795,8812,3620,468,2025-07-14,Damaged Product,422667.52,Processed
+796,8823,776,255,2025-09-06,Damaged Product,2866.63,Processed
+797,8835,15991,218,2024-12-04,Defective Product,106080.96,Processed
+798,8843,11424,386,2025-10-01,Wrong Item Delivered,3204.24,Pending
+799,8847,17219,369,2025-11-22,Damaged Product,5119.48,Pending
+800,8849,199,211,2026-05-26,Size Issue,512438.33,Rejected
+801,8852,19618,76,2025-04-17,Changed Mind,1856.22,Pending
+802,8870,5196,13,2026-07-04,Changed Mind,3790.22,Processed
+803,8873,16280,134,2025-05-17,Changed Mind,12947.36,Processed
+804,8875,5993,385,2025-08-19,Late Delivery,745.66,Processed
+805,8876,9269,431,2026-01-19,Defective Product,528.26,Rejected
+806,8887,14222,453,2025-11-10,Late Delivery,1865.82,Processed
+807,8901,13132,3,2024-11-01,Changed Mind,2466.8,Rejected
+808,8909,15861,288,2025-07-17,Defective Product,10231.06,Pending
+809,8917,8723,329,2025-10-18,Wrong Item Delivered,10438.76,Pending
+810,8919,3744,189,2025-07-21,Wrong Item Delivered,606.03,Rejected
+811,8920,8464,374,2025-01-24,Size Issue,2802.38,Pending
+812,8921,9267,341,2026-05-08,Late Delivery,173181.59,Processed
+813,8922,1826,218,2025-02-20,Product Not as Described,26404.09,Processed
+814,8962,8631,220,2025-04-25,Wrong Item Delivered,5023.17,Pending
+815,8963,1182,224,2026-03-13,Wrong Item Delivered,6237.82,Processed
+816,8970,9720,326,2025-05-18,Size Issue,284.12,Rejected
+817,8987,5603,498,2024-09-20,Quality Not Satisfactory,1906.07,Processed
+818,8991,217,437,2026-08-04,Late Delivery,1168.94,Processed
+819,8994,6101,311,2026-04-13,Product Not as Described,1012.62,Processed
+820,9011,7355,345,2026-06-27,Damaged Product,11979.94,Pending
+821,9026,17498,372,2025-12-18,Damaged Product,279055.3,Pending
+822,9043,17818,260,2025-01-26,Size Issue,1214.44,Processed
+823,9060,11859,161,2026-06-13,Changed Mind,12406.69,Pending
+824,9065,11634,184,2024-12-01,Quality Not Satisfactory,2943.83,Processed
+825,9073,397,287,2026-02-23,Damaged Product,191838.12,Processed
+826,9087,14373,16,2026-05-15,Product Not as Described,1836.48,Processed
+827,9122,3074,70,2025-04-17,Late Delivery,4305.88,Processed
+828,9126,14778,14,2025-10-14,Late Delivery,3464.78,Processed
+829,9128,17807,445,2025-08-05,Wrong Item Delivered,3349.28,Processed
+830,9137,3913,114,2025-08-27,Defective Product,18570.86,Processed
+831,9146,11566,306,2024-10-05,Damaged Product,804.22,Processed
+832,9150,17794,167,2025-10-23,Product Not as Described,1524.64,Processed
+833,9158,11220,459,2026-02-25,Damaged Product,5505.06,Processed
+834,9175,14684,215,2025-04-21,Wrong Item Delivered,3860.4,Processed
+835,9183,4472,236,2026-04-17,Defective Product,8676.3,Processed
+836,9209,2311,77,2025-03-14,Damaged Product,1689.29,Processed
+837,9237,5790,21,2025-03-30,Changed Mind,133154.6,Processed
+838,9272,3984,331,2025-12-16,Quality Not Satisfactory,70296.54,Pending
+839,9293,4203,468,2026-07-15,Late Delivery,221610.82,Processed
+840,9324,16763,86,2024-11-21,Wrong Item Delivered,2804.53,Processed
+841,9330,4346,275,2025-08-25,Wrong Item Delivered,396225.99,Processed
+842,9336,10829,466,2026-01-30,Wrong Item Delivered,924.31,Rejected
+843,9354,7932,313,2026-06-18,Wrong Item Delivered,189426.29,Processed
+844,9357,13178,12,2025-05-23,Changed Mind,8489.87,Pending
+845,9365,300,295,2025-08-22,Quality Not Satisfactory,16946.26,Processed
+846,9386,4100,333,2026-03-31,Size Issue,26861.9,Processed
+847,9392,1276,224,2024-10-14,Late Delivery,7323.55,Processed
+848,9406,5185,28,2025-10-31,Damaged Product,32317.58,Processed
+849,9411,14076,227,2025-02-26,Wrong Item Delivered,590.02,Processed
+850,9418,3484,471,2025-12-18,Size Issue,1708.65,Processed
+851,9427,2911,56,2025-04-16,Changed Mind,590.58,Rejected
+852,9432,12649,278,2025-03-12,Wrong Item Delivered,7668.5,Pending
+853,9442,9308,93,2026-07-15,Quality Not Satisfactory,10891.02,Processed
+854,9443,2531,222,2025-04-29,Damaged Product,20606.84,Processed
+855,9452,1555,207,2024-12-31,Changed Mind,1364.07,Processed
+856,9457,12086,287,2026-06-27,Defective Product,57831.64,Rejected
+857,9472,7175,155,2025-06-01,Defective Product,8593.5,Processed
+858,9477,2153,107,2024-12-05,Size Issue,901.06,Processed
+859,9509,6513,436,2026-06-13,Quality Not Satisfactory,18367.88,Pending
+860,9529,19294,451,2026-03-02,Damaged Product,66880.47,Processed
+861,9534,4717,337,2026-06-05,Product Not as Described,137540.58,Processed
+862,9548,5691,437,2024-08-09,Product Not as Described,3294.37,Processed
+863,9561,4773,13,2024-12-13,Defective Product,4209.63,Processed
+864,9610,1951,274,2025-12-19,Changed Mind,7945.67,Processed
+865,9613,13026,124,2024-11-09,Damaged Product,458422.17,Processed
+866,9651,13064,117,2025-09-17,Quality Not Satisfactory,500.09,Rejected
+867,9659,16300,409,2024-11-13,Wrong Item Delivered,5821.8,Pending
+868,9660,15355,404,2026-07-10,Late Delivery,157324.26,Processed
+869,9694,8743,58,2024-09-23,Defective Product,6016.34,Rejected
+870,9702,13025,136,2026-03-26,Size Issue,88114.64,Processed
+871,9705,18816,322,2024-10-16,Wrong Item Delivered,105653.55,Pending
+872,9711,1963,496,2025-12-05,Defective Product,5997.07,Pending
+873,9712,3389,429,2025-07-13,Wrong Item Delivered,325709.89,Processed
+874,9715,1398,325,2026-04-27,Product Not as Described,2561.02,Processed
+875,9724,8895,123,2024-12-04,Damaged Product,6818.23,Processed
+876,9727,11366,24,2025-11-10,Size Issue,9587.91,Processed
+877,9733,18922,429,2026-07-26,Changed Mind,537518.6,Rejected
+878,9756,19115,415,2025-02-25,Late Delivery,2055.05,Processed
+879,9761,18348,56,2024-09-14,Late Delivery,586.36,Rejected
+880,9762,14319,216,2025-01-15,Wrong Item Delivered,1237.64,Processed
+881,9768,8627,32,2026-05-08,Size Issue,509.34,Processed
+882,9786,469,286,2026-07-26,Damaged Product,58330.81,Processed
+883,9794,12497,88,2025-10-12,Size Issue,317.09,Processed
+884,9800,17284,101,2025-12-14,Late Delivery,8519.13,Rejected
+885,9801,15291,65,2025-02-19,Changed Mind,1953.53,Processed
+886,9805,3004,371,2026-03-16,Changed Mind,963.83,Processed
+887,9807,3483,312,2024-09-27,Damaged Product,2089.46,Rejected
+888,9850,1636,24,2025-08-04,Size Issue,5752.07,Processed
+889,9861,12092,245,2025-08-02,Wrong Item Delivered,6284.29,Processed
+890,9864,532,338,2026-03-01,Wrong Item Delivered,427.58,Rejected
+891,9865,19270,235,2025-08-22,Size Issue,3083.27,Pending
+892,9866,10442,369,2026-01-07,Changed Mind,7381.82,Processed
+893,9870,17318,146,2026-04-04,Wrong Item Delivered,593.02,Processed
+894,9872,4891,52,2024-09-05,Late Delivery,14840.62,Processed
+895,9892,8377,349,2025-07-21,Quality Not Satisfactory,11450.17,Processed
+896,9893,6040,385,2025-03-14,Wrong Item Delivered,3508.07,Pending
+897,9906,16694,15,2026-04-29,Wrong Item Delivered,3956.58,Rejected
+898,9909,10612,107,2026-07-10,Size Issue,2389.51,Rejected
+899,9915,1595,435,2026-02-09,Late Delivery,350.57,Pending
+900,9916,17390,222,2025-01-20,Damaged Product,19060.94,Rejected
+901,9917,15725,294,2025-03-10,Product Not as Described,405.46,Processed
+902,9918,14373,63,2026-05-03,Defective Product,5238.13,Processed
+903,9939,4433,444,2025-05-23,Defective Product,12549.17,Processed
+904,9956,1140,293,2025-05-05,Size Issue,3211.99,Processed
+905,9973,9507,237,2025-06-14,Wrong Item Delivered,710.2,Rejected
+906,9980,8267,248,2024-12-23,Product Not as Described,3887.12,Rejected
+907,9996,14019,76,2024-10-12,Defective Product,7584.88,Processed
